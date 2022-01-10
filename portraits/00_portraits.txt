@@ -1,0 +1,561 @@
+default = {
+	#navy = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+	
+	#army = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+
+	operative = {
+		male = {
+			"gfx/leaders/operative_unknown.dds"
+		}
+		female = {
+			"gfx/leaders/operative_unknown.dds"
+		}
+	}
+
+	male = {
+		"gfx/leaders/leader_unknown.dds"
+	}
+	female = {
+		"gfx/leaders/leader_unknown_female.dds"
+	}
+}
+
+continent = {
+	name = europe
+	army = {
+		male = {
+			"gfx/leaders/Generic/bacon_generic.dds"
+			"gfx/leaders/Generic/drip_generic.dds"
+			"gfx/leaders/Generic/army_generic.dds"
+			"gfx/leaders/Generic/monke.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Generic/navygeneric_1.dds"
+			"gfx/leaders/Generic/navygeneric_2.dds"
+		}
+	}
+	
+	political = {
+		anarchism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		popular_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		liberalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		conservatism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_democrat = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		despotism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		reactionarism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		national_populism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		ultranationalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = north_america
+	army = {
+		male = {
+			"gfx/leaders/Generic/bacon_generic.dds"
+			"gfx/leaders/Generic/drip_generic.dds"
+			"gfx/leaders/Generic/army_generic.dds"
+			"gfx/leaders/Generic/monke.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Generic/navygeneric_1.dds"
+			"gfx/leaders/Generic/navygeneric_2.dds"
+		}
+	}
+	
+	political = {
+		anarchism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		popular_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		liberalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		conservatism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_democrat = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		despotism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		reactionarism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		national_populism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		ultranationalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = south_america
+	army = {
+		male = {
+			"gfx/leaders/Generic/bacon_generic.dds"
+			"gfx/leaders/Generic/drip_generic.dds"
+			"gfx/leaders/Generic/army_generic.dds"
+			"gfx/leaders/Generic/monke.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Generic/navygeneric_1.dds"
+			"gfx/leaders/Generic/navygeneric_2.dds"
+		}
+	}
+	
+	political = {
+		anarchism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		popular_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		liberalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		conservatism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_democrat = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		despotism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		reactionarism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		national_populism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		ultranationalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = australia
+	army = {
+		male = {
+			"gfx/leaders/Generic/bacon_generic.dds"
+			"gfx/leaders/Generic/drip_generic.dds"
+			"gfx/leaders/Generic/army_generic.dds"
+			"gfx/leaders/Generic/monke.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Generic/navygeneric_1.dds"
+			"gfx/leaders/Generic/navygeneric_2.dds"
+		}
+	}
+	
+	political = {
+		anarchism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		popular_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		liberalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		conservatism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_democrat = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		despotism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		reactionarism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		national_populism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		ultranationalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = africa
+	army = {
+		male = {
+			"gfx/leaders/Generic/bacon_generic.dds"
+			"gfx/leaders/Generic/drip_generic.dds"
+			"gfx/leaders/Generic/army_generic.dds"
+			"gfx/leaders/Generic/monke.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Generic/navygeneric_1.dds"
+			"gfx/leaders/Generic/navygeneric_2.dds"
+		}
+	}
+	
+	political = {
+		anarchism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		popular_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		liberalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		conservatism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_democrat = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		despotism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		reactionarism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		national_populism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		ultranationalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = asia
+	army = {
+		male = {
+			"gfx/leaders/Generic/bacon_generic.dds"
+			"gfx/leaders/Generic/drip_generic.dds"
+			"gfx/leaders/Generic/army_generic.dds"
+			"gfx/leaders/Generic/monke.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Generic/navygeneric_1.dds"
+			"gfx/leaders/Generic/navygeneric_2.dds"
+		}
+	}
+	
+	political = {
+		anarchism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		popular_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		liberalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		conservatism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_democrat = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		despotism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		reactionarism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		national_populism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		ultranationalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+	}
+}
+
+continent = {
+	name = middle_east
+	army = {
+		male = {
+			"gfx/leaders/Generic/bacon_generic.dds"
+			"gfx/leaders/Generic/drip_generic.dds"
+			"gfx/leaders/Generic/army_generic.dds"
+			"gfx/leaders/Generic/monke.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Generic/navygeneric_1.dds"
+			"gfx/leaders/Generic/navygeneric_2.dds"
+		}
+	}
+	
+	political = {
+		anarchism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		popular_socialism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		liberalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		conservatism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		authoritarian_democrat = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		despotism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds" 
+			}
+		}
+		reactionarism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		national_populism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+		ultranationalism = {
+			male = { 
+				"gfx/leaders/Generic/bacon_generic.dds"
+			}
+		}
+	}
+
+}
+
+#ENG = {
+#	army = {
+#		male = {
+#			"gfx/leaders/Generic/bacon_generic.dds"
+#			"gfx/leaders/Generic/drip_generic.dds"
+#			"gfx/leaders/Generic/army_generic.dds"
+#			"gfx/leaders/Generic/monke.dds"	
+#		}
+#	}
+#	
+#	navy = {
+#		male = {
+#			"gfx/leaders/Generic/navygeneric_1.dds"
+#			"gfx/leaders/Generic/navygeneric_2.dds"
+#		}
+#	}
+#}
+
+}

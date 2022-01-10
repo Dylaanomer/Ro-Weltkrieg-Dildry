@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ COL:0 "Gran Columbian Republic"
+ COL_ADJ:0 "Columbian"
+ COL_DEF:0 "Columbia"
+
+### Parties ###
+ COL_anarchism_type_party:0 "TEMP"
+ COL_anarchism_type_party_long:0 "TEMP"
+ COL_authoritarian_socialism_party:0 "TEMP"
+ COL_authoritarian_socialism_long:0 "TEMP" 
+ COL_popular_socialism_party:0 "TEMP"
+ COL_popular_socialism_party_long:0 "TEMP" 
+ COL_liberalism_party:0 "TEMP"
+ COL_liberalism_long:0 "TEMP"
+ COL_conservatism_party:0 "TEMP"
+ COL_conservatism_party_long:0 "TEMP"
+ COL_authoritarian_democrat_party:0 "TEMP"
+ COL_authoritarian_democrat_party_long:0 "TEMP"
+ COL_despotism_type_party:0 "TEMP"
+ COL_despotism_type_party_long:0 "TEMP"
+ COL_reactionarism_party:0 "TEMP"
+ COL_reactionarism_party_long:0 "TEMP"
+ COL_national_populism_party:0 "TEMP"
+ COL_national_populism_party_long:0 "TEMP"
+ COL_ultranationalism_party:0 "TEMP"
+ COL_ultranationalism_party_long:0 "TEMP"

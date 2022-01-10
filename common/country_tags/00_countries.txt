@@ -1,0 +1,85 @@
+####################################################
+#THE AMERICAS
+USM = "countries/America.txt"
+SCD = "countries/Sovs Canada.txt"
+BRZ = "countries/Em Brazil.txt"
+MXC = "countries/Mehico.txt"
+ARG = "countries/Argentina.txt"
+BOL = "countries/Bolivia.txt"
+ELS = "countries/El Salvador.txt"
+HAI = "countries/Haiti.txt"
+CHL = "countries/Chile.txt"
+BOM = "countries/Bombardos.txt"
+ECU = "countries/Ecuador.txt"
+SAM = "countries/Sambuza.txt"
+PRU = "countries/Peru.txt"
+PAR = "countries/Paraguay.txt"
+GOL = "countries/Grand Columbia.txt"
+URG = "countries/Uruguay.txt"
+FCE = "countries/Central America.txt"
+GUA = "countries/Guatemla.txt"
+PAN = "countries/Panama.txt"
+DOM = "countries/Dominican Republic.txt"
+BWE = "countries/British West India.txt"
+####################################################
+#WESTERN AND NORTHERN EUROPE
+POK = "countries/Kroneland.txt"
+KOD = "countries/Dietsland.txt"
+GAR = "countries/Alemannia.txt"
+ICR = "countries/Rhine.txt"
+KOB = "countries/Models Bavaria.txt"
+KOF = "countries/Franconia.txt"
+KVD = "countries/Dietrich Prussia.txt"
+KRS = "countries/Richters Korea.txt"
+FUK = "countries/Forges UK.txt"
+OCT = "countries/Octavia.txt"
+LVF = "countries/Grand France.txt"
+HRE = "countries/Frankland Fetus.txt"
+NRC = "countries/Noricerm.txt"
+UBR = "countries/Baltic Realm.txt"
+SSV = "countries/Soumi Finland.txt"
+KDM = "countries/Danish Kingdom.txt"
+KNW = "countries/Norse.txt"
+####################################################
+#CENTRAL AND EASTERN EUROPE
+NPR = "countries/NPRSR.txt"
+IRF = "countries/Vas.txt"
+CZO = "countries/Czonia.txt"
+HER = "countries/Hasan.txt"
+FSI = "countries/Fidelites.txt"
+NIT = "countries/Neutgard.txt"
+KEL = "countries/Edelkara.txt"
+####################################################
+#THE BALKANS
+PYS = "countries/Pawels Yugo.txt"
+ATK = "countries/Turkish Republic.txt"
+GRR = "countries/Greek.txt"
+RMR = "countries/Romanian.txt"
+TOB = "countries/Tsardom Bulgaria.txt"
+CSR = "countries/Czechoslovak Republic.txt"
+GPT = "countries/Portugese.txt"
+KAL = "countries/Albanian Kingdom.txt"
+####################################################
+#ASIA
+IJA = "countries/Felixs Japan.txt"
+PCA = "countries/Philippines Common.txt"
+BRJ = "countries/The Raj.txt"
+MLY = "countries/Malays.txt"
+DVN = "countries/IJA Vietnam.txt"
+CHN = "countries/DrSun China.txt"
+PSM = "countries/Phil Siam.txt"
+ANZ = "countries/Anzac.txt"
+####################################################
+#AFRICA
+TWA = "countries/Nerfers TWA.txt"
+LSA = "countries/Luffs SA.txt"
+####################################################
+#ZUS = "countries/Zusten.txt"
+#DOV = "countries/Vienna.txt"
+#RAH = "countries/Richftons Aus.txt"
+#TKH = "countries/Kingdom of Hungary.txt"
+#TGR = "countries/Generic Austria.txt"
+####################################################
+
+
+#CAS = "countries/Cascadia.txt"
