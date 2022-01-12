@@ -85,6 +85,7 @@ SYR = "countries/SYRRRRIA.txt"
 LEV = "countries/Levant.txt"
 KSA = "countries/KSA.txt"
 PER = "countries/Persia.txt"
+PER = "countries/Persia.txt"
 AHG = "countries/Afghanistan.txt"
 
 
