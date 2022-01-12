@@ -1,6 +1,6 @@
-﻿capital = 278
+﻿capital = 680
 
-oob = "ARG_1936"
+oob = "SYR_1936"
 
 # Starting tech
 set_technology = {
@@ -26,7 +26,7 @@ if = {
 		early_battleship = 1
 		transport = 1
 	}
-	set_naval_oob = "ARG_1936_naval_legacy"
+	set_naval_oob = "SYR_1936_naval_legacy"
 }
 if = {
 	limit = { has_dlc = "Man the Guns"}
@@ -67,9 +67,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Evangamer2005"
+	name = "SMikeMonroney"
 	desc = ""
-	picture = "ARGENTINA evangamer2005.dds"
+	picture = "SAMBUZA_SMikeMonroney.dds"
 	expire = "1953.3.1"
 	ideology = constitutional_monarchy
 	traits = {
