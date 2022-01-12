@@ -1,6 +1,6 @@
-﻿capital = 680
+﻿capital = 291
 
-oob = "SYR_1936"
+oob = "LEV_1936"
 
 # Starting tech
 set_technology = {
@@ -26,7 +26,7 @@ if = {
 		early_battleship = 1
 		transport = 1
 	}
-	set_naval_oob = "SYR_1936_naval_legacy"
+	set_naval_oob = "ARG_1936_naval_legacy"
 }
 if = {
 	limit = { has_dlc = "Man the Guns"}

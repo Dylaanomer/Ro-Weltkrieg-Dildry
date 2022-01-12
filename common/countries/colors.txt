@@ -406,3 +406,8 @@ ARM = {
 	color = rgb { 176  102  180 }
 	color_ui = rgb { 176  102  180 }
 }
+
+LEV = {
+	color = rgb { 17 97 26  }
+	color_ui = rgb { 17 97 26 }
+}
