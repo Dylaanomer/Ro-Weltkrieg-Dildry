@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ AFG:0 "State of Afghanistan"
+ AFG_ADJ:0 "Pashtun"
+ AFG_DEF:0 "Afghan"
+
+### Parties ###
+ AFG_anarchism_type_party:0 "TEMP"
+ AFG_anarchism_type_party_long:0 "TEMP"
+ AFG_authoritarian_socialism_party:0 "TEMP"
+ AFG_authoritarian_socialism_long:0 "TEMP" 
+ AFG_popular_socialism_party:0 "TEMP"
+ AFG_popular_socialism_party_long:0 "TEMP" 
+ AFG_liberalism_party:0 "TEMP"
+ AFG_liberalism_long:0 "TEMP"
+ AFG_conservatism_party:0 "TEMP"
+ AFG_conservatism_party_long:0 "TEMP"
+ AFG_authoritarian_democrat_party:0 "TEMP"
+ AFG_authoritarian_democrat_party_long:0 "TEMP"
+ AFG_despotism_type_party:0 "TEMP"
+ AFG_despotism_type_party_long:0 "TEMP"
+ AFG_reactionarism_party:0 "TEMP"
+ AFG_reactionarism_party_long:0 "TEMP"
+ AFG_national_populism_party:0 "TEMP"
+ AFG_national_populism_party_long:0 "TEMP"
+ AFG_ultranationalism_party:0 "TEMP"
+ AFG_ultranationalism_party_long:0 "TEMP"
