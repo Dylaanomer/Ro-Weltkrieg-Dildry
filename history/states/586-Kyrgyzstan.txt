@@ -9,8 +9,8 @@ state={
 	}
 
 	history={
-		owner=IRF
-		add_core_of = IRF
+		owner=RSR
+		add_core_of = RSR
 		buildings = {
 			infrastructure=2
 			industrial_complex=3

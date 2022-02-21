@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ ESR:0 "Far Free Eastern Army"
+ ESR_ADJ:0 "Eskimo State"
+ ESR_DEF:0 "Russian"
+
+### Parties ###
+ ESR_anarchism_type_party:0 "Anarchist Movement"
+ ESR_anarchism_type_party_long:0 "Anarchist Movement"
+ ESR_authoritarian_socialism_party:0 "All-Union Communist Party"
+ ESR_authoritarian_socialism_long:0 "All-Union Communist Party"
+ ESR_popular_socialism_party:0 "Yakovist Party"
+ ESR_popular_socialism_party_long:0 "The Yakovist Loyalist Party"
+ ESR_liberalism_party:0 "Popular Front"
+ ESR_liberalism_long:0 "Popular Front of the Federation"
+ ESR_conservatism_party:0 "Conservative Party of the Federation"
+ ESR_conservatism_party_long:0 "Conservative Party of the Federation"
+ ESR_authoritarian_democrat_party:0 "Democratic Monarchist Party"
+ ESR_authoritarian_democrat_party_long:0 "Democratic Monarchist Party of the Federation"
+ ESR_despotism_type_party:0 "Military Government"
+ ESR_despotism_type_party_long:0 "Military Government"
+ ESR_reactionarism_party:0 "Revolutionary Order of the Ezic Star"
+ ESR_reactionarism_party_long:0 "Revolutionary Order of the Ezic Star"
+ ESR_national_populism_party:0 "Ortho-Chauvin Loyalists"
+ ESR_national_populism_party_long:0 "Ortho-Chauvin Loyalists"
+ ESR_ultranationalism_party:0 "Union of Imperial Nationalists"
+ ESR_ultranationalism_party_long:0 "Union of Imperial Nationalists"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

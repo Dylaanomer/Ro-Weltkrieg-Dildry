@@ -6,12 +6,12 @@ state={
 	}
 
 	history={
-		owner=IRF
+		owner=RSM
 		buildings = {
 			infrastructure=2
 
 		}
-		add_core_of = IRF
+		add_core_of = RSM
 
 	}
 

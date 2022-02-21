@@ -6,8 +6,8 @@ state = {
 	
 	state_category=pastoral
 	history = {
-		owner=IRF
-		add_core_of = IRF
+		owner=VVO
+		add_core_of = VVO
 		add_claim_by = JAP
 		buildings = {
 			infrastructure=2

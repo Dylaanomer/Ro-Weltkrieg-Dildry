@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ RSR:0 "Kazakh Soviet Governance"
+ RSR_ADJ:0 "Kazakh Soviet Governance"
+ RSR_DEF:0 "Russian"
+
+### Parties ###
+ RSR_anarchism_type_party:0 "Anarchist Movement"
+ RSR_anarchism_type_party_long:0 "Anarchist Movement"
+ RSR_authoritarian_socialism_party:0 "All-Union Communist Party"
+ RSR_authoritarian_socialism_long:0 "All-Union Communist Party"
+ RSR_popular_socialism_party:0 "Yakovist Party"
+ RSR_popular_socialism_party_long:0 "The Yakovist Loyalist Party"
+ RSR_liberalism_party:0 "Popular Front"
+ RSR_liberalism_long:0 "Popular Front of the Federation"
+ RSR_conservatism_party:0 "Conservative Party of the Federation"
+ RSR_conservatism_party_long:0 "Conservative Party of the Federation"
+ RSR_authoritarian_democrat_party:0 "Democratic Monarchist Party"
+ RSR_authoritarian_democrat_party_long:0 "Democratic Monarchist Party of the Federation"
+ RSR_despotism_type_party:0 "Military Government"
+ RSR_despotism_type_party_long:0 "Military Government"
+ RSR_reactionarism_party:0 "Revolutionary Order of the Ezic Star"
+ RSR_reactionarism_party_long:0 "Revolutionary Order of the Ezic Star"
+ RSR_national_populism_party:0 "Ortho-Chauvin Loyalists"
+ RSR_national_populism_party_long:0 "Ortho-Chauvin Loyalists"
+ RSR_ultranationalism_party:0 "Union of Imperial Nationalists"
+ RSR_ultranationalism_party_long:0 "Union of Imperial Nationalists"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

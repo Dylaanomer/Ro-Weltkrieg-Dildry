@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ BSK:0 "Baskhir Military District"
+ BSK_ADJ:0 "Baskhir Military District Oblast"
+ BSK_DEF:0 "Russian"
+
+### Parties ###
+ BSK_anarchism_type_party:0 "Anarchist Movement"
+ BSK_anarchism_type_party_long:0 "Anarchist Movement"
+ BSK_authoritarian_socialism_party:0 "All-Union Communist Party"
+ BSK_authoritarian_socialism_long:0 "All-Union Communist Party"
+ BSK_popular_socialism_party:0 "Yakovist Party"
+ BSK_popular_socialism_party_long:0 "The Yakovist Loyalist Party"
+ BSK_liberalism_party:0 "Popular Front"
+ BSK_liberalism_long:0 "Popular Front of the Federation"
+ BSK_conservatism_party:0 "Conservative Party of the Federation"
+ BSK_conservatism_party_long:0 "Conservative Party of the Federation"
+ BSK_authoritarian_democrat_party:0 "Democratic Monarchist Party"
+ BSK_authoritarian_democrat_party_long:0 "Democratic Monarchist Party of the Federation"
+ BSK_despotism_type_party:0 "Military Government"
+ BSK_despotism_type_party_long:0 "Military Government"
+ BSK_reactionarism_party:0 "Revolutionary Order of the Ezic Star"
+ BSK_reactionarism_party_long:0 "Revolutionary Order of the Ezic Star"
+ BSK_national_populism_party:0 "Ortho-Chauvin Loyalists"
+ BSK_national_populism_party_long:0 "Ortho-Chauvin Loyalists"
+ BSK_ultranationalism_party:0 "Union of Imperial Nationalists"
+ BSK_ultranationalism_party_long:0 "Union of Imperial Nationalists"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

@@ -4,27 +4,21 @@ state={
 	name="STATE_806"
 
 	history={
-		owner=OCT
-		add_core_of = HRE
-		add_core_of = LVF
-		add_core_of = TWA
-		add_core_of = OCT
+		owner=LVF
 		victory_points = {
 			9710 3 
 		}
 		buildings = {
-			infrastructure=3 #was: 6
-
+			infrastructure=3
 		}
-
+		add_core_of = LVF
 	}
 
 	provinces={
-		743 9710 11697 
+		743 9710 
 	}
 	manpower=280723
 	buildings_max_level_factor=1.000
 	state_category=town
-
-	local_supplies=0.0 
+	local_supplies=0.000
 }

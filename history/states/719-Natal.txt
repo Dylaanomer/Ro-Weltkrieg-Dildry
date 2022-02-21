@@ -1,20 +1,17 @@
+
 state={
 	id=719
-	name="STATE_719" # Natal
-	manpower=3962157
+	name="STATE_719"
 	resources={
-		chromium=60 # was: 116
+		chromium=60.000
 	}
-	
-	state_category=city
-
 
 	history={
-		owner=LSA
+		owner = SAF
 		buildings = {
-			infrastructure=3 #was: 5
-			industrial_complex=2
-			air_base=1
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 1
 			1468 = {
 				naval_base = 2
 			}
@@ -28,12 +25,14 @@ state={
 		victory_points = {
 			4696 1 
 		}
-		add_core_of = LSA
+		add_core_of = SAF
 	}
 
 	provinces={
-		1468 1494 1833 4556 4584 4696 7576 7900 8178 
+		1468 1494 1833 4584 4696 7576 8178 
 	}
-
-	local_supplies=0.0 
+	manpower=2962157
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
 }

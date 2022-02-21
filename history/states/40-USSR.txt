@@ -7,12 +7,12 @@ state={
 	state_category=large_town
 
 	history={
-		owner=IRF
+		owner=RSM
 		buildings = {
 			infrastructure=1
 			industrial_complex=1
 		}
-		add_core_of = IRF
+		add_core_of = RSM
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 2

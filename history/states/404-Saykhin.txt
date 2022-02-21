@@ -3,11 +3,11 @@ state={
 	name="STATE_404"
 
 	history={
-		owner=IRF
+		owner=RSR
 		victory_points = {
 			7597 1
 		}
-		add_core_of = IRF
+		add_core_of = RSR
 		buildings = {
 			infrastructure=1
 

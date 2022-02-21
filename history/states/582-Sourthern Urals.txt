@@ -7,12 +7,12 @@ state={
 	}
 
 	history={
-		owner=IRF
+		owner=RSM
 		buildings = {
 			infrastructure=3 #was: 5
 
 		}
-		add_core_of = IRF
+		add_core_of = RSM
 		victory_points = {
 			10256 3
 		}

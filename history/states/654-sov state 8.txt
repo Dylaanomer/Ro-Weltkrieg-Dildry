@@ -7,11 +7,11 @@ state={
 	state_category=wasteland
 
 	history={
-		owner=IRF
+		owner=RSM
 		buildings = {
 			infrastructure=1
 		}
-		add_core_of = IRF
+		add_core_of = RSM
 		victory_points = {
 			4800 1 #Oyrot-Tura/Gorno-Altaysk
 		}

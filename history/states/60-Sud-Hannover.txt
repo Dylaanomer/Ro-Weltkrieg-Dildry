@@ -1,30 +1,27 @@
-
+#Thüringen
 state={
 	id=60
 	name="STATE_60"
-	manpower = 3005214
 	resources={
-		steel=13 # was: 20
-		chromium = 3 # was: 4
-		tungsten = 3 # was: 4
+		steel=13.000
+		chromium=3.000
+		tungsten=3.000
 	}
-	
-	state_category = large_city
 
 	history={
-		owner = GAR
-		victory_points = { 3561 5 }
-		victory_points = { 425 3 }
+		owner=KOF
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+			infrastructure=3
+			industrial_complex=1
 		}
-		add_core_of = GAR
+		add_core_of = KOF
 	}
 
 	provinces={
-		425 482 538 3500 3561 6501 6524 6582 9497 
+		482 3500 6524 9497 
 	}
-
-	local_supplies=0.0 
+	manpower=1505214
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
 }

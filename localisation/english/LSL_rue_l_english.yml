@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ RUE:0 "The Russian Empire"
+ RUE_ADJ:0 "Russia Impera"
+ RUE_DEF:0 "Russian"
+
+### Parties ###
+ RUE_anarchism_type_party:0 "Anarchist Movement"
+ RUE_anarchism_type_party_long:0 "Anarchist Movement"
+ RUE_authoritarian_socialism_party:0 "All-Union Communist Party"
+ RUE_authoritarian_socialism_long:0 "All-Union Communist Party"
+ RUE_popular_socialism_party:0 "Yakovist Party"
+ RUE_popular_socialism_party_long:0 "The Yakovist Loyalist Party"
+ RUE_liberalism_party:0 "Popular Front"
+ RUE_liberalism_long:0 "Popular Front of the Federation"
+ RUE_conservatism_party:0 "Conservative Party of the Federation"
+ RUE_conservatism_party_long:0 "Conservative Party of the Federation"
+ RUE_authoritarian_democrat_party:0 "Democratic Monarchist Party"
+ RUE_authoritarian_democrat_party_long:0 "Democratic Monarchist Party of the Federation"
+ RUE_despotism_type_party:0 "Military Government"
+ RUE_despotism_type_party_long:0 "Military Government"
+ RUE_reactionarism_party:0 "Revolutionary Order of the Ezic Star"
+ RUE_reactionarism_party_long:0 "Revolutionary Order of the Ezic Star"
+ RUE_national_populism_party:0 "Ortho-Chauvin Loyalists"
+ RUE_national_populism_party_long:0 "Ortho-Chauvin Loyalists"
+ RUE_ultranationalism_party:0 "Union of Imperial Nationalists"
+ RUE_ultranationalism_party_long:0 "Union of Imperial Nationalists"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

@@ -4,14 +4,14 @@ state={
 	name="STATE_575" # Kirensk
 	manpower=146494
 	
-	state_category=wasteland
+	state_category=rural
 
 	history={
-		owner=IRF
+		owner=RSM
 		buildings = {
 			infrastructure=1
 		}
-		add_core_of = IRF
+		add_core_of = RSM
 	}
 
 	provinces={

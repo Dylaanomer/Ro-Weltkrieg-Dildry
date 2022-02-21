@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ VVO:0 "Eastern Soviet Free State"
+ VVO_ADJ:0 "Baskhir Military District Oblast"
+ VVO_DEF:0 "Russian"
+
+### Parties ###
+ VVO_anarchism_type_party:0 "Anarchist Movement"
+ VVO_anarchism_type_party_long:0 "Anarchist Movement"
+ VVO_authoritarian_socialism_party:0 "All-Union Communist Party"
+ VVO_authoritarian_socialism_long:0 "All-Union Communist Party"
+ VVO_popular_socialism_party:0 "Yakovist Party"
+ VVO_popular_socialism_party_long:0 "The Yakovist Loyalist Party"
+ VVO_liberalism_party:0 "Popular Front"
+ VVO_liberalism_long:0 "Popular Front of the Federation"
+ VVO_conservatism_party:0 "Conservative Party of the Federation"
+ VVO_conservatism_party_long:0 "Conservative Party of the Federation"
+ VVO_authoritarian_democrat_party:0 "Democratic Monarchist Party"
+ VVO_authoritarian_democrat_party_long:0 "Democratic Monarchist Party of the Federation"
+ VVO_despotism_type_party:0 "Military Government"
+ VVO_despotism_type_party_long:0 "Military Government"
+ VVO_reactionarism_party:0 "Revolutionary Order of the Ezic Star"
+ VVO_reactionarism_party_long:0 "Revolutionary Order of the Ezic Star"
+ VVO_national_populism_party:0 "Ortho-Chauvin Loyalists"
+ VVO_national_populism_party_long:0 "Ortho-Chauvin Loyalists"
+ VVO_ultranationalism_party:0 "Union of Imperial Nationalists"
+ VVO_ultranationalism_party_long:0 "Union of Imperial Nationalists"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

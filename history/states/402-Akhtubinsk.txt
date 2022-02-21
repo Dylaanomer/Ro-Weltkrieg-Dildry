@@ -6,11 +6,11 @@ state={
 	}
 
 	history={
-		owner=IRF
+		owner=RSR
 		victory_points = {
 			7341 1
 		}
-		add_core_of = IRF
+		add_core_of = RSR
 		buildings = {
 			infrastructure=2
 

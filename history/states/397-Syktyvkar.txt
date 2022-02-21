@@ -9,12 +9,12 @@ state = {
 		victory_points = {
 			108 1 
 		}
-		owner=IRF
+		owner=RSM
 		buildings = {
 			infrastructure=1
 
 		}
-		add_core_of = IRF
+		add_core_of = RSM
 	}
 
 	provinces = {

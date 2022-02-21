@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ RM:0 "Central Siberian Administration"
+ RM_ADJ:0 "Central Sov Administration"
+ RM_DEF:0 "Russian"
+
+### Parties ###
+ RM_anarchism_type_party:0 "Anarchist Movement"
+ RM_anarchism_type_party_long:0 "Anarchist Movement"
+ RM_authoritarian_socialism_party:0 "All-Union Communist Party"
+ RM_authoritarian_socialism_long:0 "All-Union Communist Party"
+ RM_popular_socialism_party:0 "Yakovist Party"
+ RM_popular_socialism_party_long:0 "The Yakovist Loyalist Party"
+ RM_liberalism_party:0 "Popular Front"
+ RM_liberalism_long:0 "Popular Front of the Federation"
+ RM_conservatism_party:0 "Conservative Party of the Federation"
+ RM_conservatism_party_long:0 "Conservative Party of the Federation"
+ RM_authoritarian_democrat_party:0 "Democratic Monarchist Party"
+ RM_authoritarian_democrat_party_long:0 "Democratic Monarchist Party of the Federation"
+ RM_despotism_type_party:0 "Military Government"
+ RM_despotism_type_party_long:0 "Military Government"
+ RM_reactionarism_party:0 "Revolutionary Order of the Ezic Star"
+ RM_reactionarism_party_long:0 "Revolutionary Order of the Ezic Star"
+ RM_national_populism_party:0 "Ortho-Chauvin Loyalists"
+ RM_national_populism_party_long:0 "Ortho-Chauvin Loyalists"
+ RM_ultranationalism_party:0 "Union of Imperial Nationalists"
+ RM_ultranationalism_party_long:0 "Union of Imperial Nationalists"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

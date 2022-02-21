@@ -7,11 +7,11 @@ state={
 	state_category=rural
 
 	history={
-		owner=IRF
+		owner=CAU
 		buildings = {
 			infrastructure=1
 		}
-		add_core_of = IRF
+		add_core_of = CAU
 		victory_points = {
 			11724 1
 		}

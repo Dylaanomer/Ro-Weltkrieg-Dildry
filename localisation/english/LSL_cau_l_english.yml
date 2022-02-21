@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ CAU:0 "Free Caucasian Army"
+ CAU_ADJ:0 "Free Caucasian Army"
+ CAU_DEF:0 "Russian"
+
+### Parties ###
+ CAU_anarchism_type_party:0 "Anarchist Movement"
+ CAU_anarchism_type_party_long:0 "Anarchist Movement"
+ CAU_authoritarian_socialism_party:0 "All-Union Communist Party"
+ CAU_authoritarian_socialism_long:0 "All-Union Communist Party"
+ CAU_popular_socialism_party:0 "Yakovist Party"
+ CAU_popular_socialism_party_long:0 "The Yakovist Loyalist Party"
+ CAU_liberalism_party:0 "Popular Front"
+ CAU_liberalism_long:0 "Popular Front of the Federation"
+ CAU_conservatism_party:0 "Conservative Party of the Federation"
+ CAU_conservatism_party_long:0 "Conservative Party of the Federation"
+ CAU_authoritarian_democrat_party:0 "Democratic Monarchist Party"
+ CAU_authoritarian_democrat_party_long:0 "Democratic Monarchist Party of the Federation"
+ CAU_despotism_type_party:0 "Military Government"
+ CAU_despotism_type_party_long:0 "Military Government"
+ CAU_reactionarism_party:0 "Revolutionary Order of the Ezic Star"
+ CAU_reactionarism_party_long:0 "Revolutionary Order of the Ezic Star"
+ CAU_national_populism_party:0 "Ortho-Chauvin Loyalists"
+ CAU_national_populism_party_long:0 "Ortho-Chauvin Loyalists"
+ CAU_ultranationalism_party:0 "Union of Imperial Nationalists"
+ CAU_ultranationalism_party_long:0 "Union of Imperial Nationalists"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 
