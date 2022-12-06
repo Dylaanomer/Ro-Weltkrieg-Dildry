@@ -1,7 +1,7 @@
-https://discord.gg/pbNgURXySD
+
 
 hello, this is not finished
 
-turn on debug mode and see le errors yourself
+turn on debug mode and see 3000 errors yourself
 
 have a good day
